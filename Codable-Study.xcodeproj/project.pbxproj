@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F94CF11F25D9652D00D08312 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94CF11E25D9652D00D08312 /* main.swift */; };
+		F94CF12725D9653B00D08312 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94CF12625D9653B00D08312 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		F94CF11B25D9652D00D08312 /* Codable-Study */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Codable-Study"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F94CF11E25D9652D00D08312 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		F94CF12625D9653B00D08312 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				F94CF11E25D9652D00D08312 /* main.swift */,
+				F94CF12625D9653B00D08312 /* Model.swift */,
 			);
 			path = "Codable-Study";
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F94CF11F25D9652D00D08312 /* main.swift in Sources */,
+				F94CF12725D9653B00D08312 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
